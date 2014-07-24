@@ -1,5 +1,8 @@
 (un)mountEFI
 ============
+
+This software is considered fairly stable but no longer under development - I still use it, and I've found it useful!
+
 OS X app to (un)mount the EFI partition. Fast and simple to use. Useful for anyone using rEFInd/rEFIt and anyone mucking about with their EFI or developing firmware. Completely open-source. Developed and tested by Sam Daitzman, but feel free to fork or send in bugs/improvements.
 
 # Installation:
